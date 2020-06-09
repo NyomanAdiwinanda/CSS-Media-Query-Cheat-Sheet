@@ -14,6 +14,7 @@ Open the CSS file on your text-editor / code-editor
 ## Or just copy paste the code below to your own project file
 
 ``` css
+
 /* 
   ##Device = Desktops
   ##Screen = 1281px to higher resolution desktops
@@ -30,7 +31,7 @@ Open the CSS file on your text-editor / code-editor
     ##Screen = B/w 1025px to 1280px
   */
   
-  @media (min-width: 1025px) and (max-width: 1280px) {
+  @media only screen and (min-width: 1025px) and (max-width: 1280px) {
     
     /* Insert CSS */
     
@@ -41,7 +42,7 @@ Open the CSS file on your text-editor / code-editor
     ##Screen = B/w 768px to 1024px
   */
   
-  @media (min-width: 768px) and (max-width: 1024px) {
+  @media only screen and (min-width: 768px) and (max-width: 1024px) {
     
     /* Insert CSS */
     
@@ -52,7 +53,7 @@ Open the CSS file on your text-editor / code-editor
     ##Screen = B/w 768px to 1024px
   */
   
-  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  @media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
     
     /* Insert CSS */
     
@@ -63,7 +64,7 @@ Open the CSS file on your text-editor / code-editor
     ##Screen = B/w 481px to 767px
   */
   
-  @media (min-width: 481px) and (max-width: 767px) {
+  @media only screen and (min-width: 481px) and (max-width: 767px) {
     
     /* Insert CSS */
     
@@ -74,7 +75,7 @@ Open the CSS file on your text-editor / code-editor
     ##Screen = B/w 320px to 479px
   */
   
-  @media (min-width: 320px) and (max-width: 480px) {
+  @media only screen and (min-width: 320px) and (max-width: 480px) {
     
     /* Insert CSS */
     
