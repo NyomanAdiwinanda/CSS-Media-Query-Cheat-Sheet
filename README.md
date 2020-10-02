@@ -1,16 +1,12 @@
 # CSS Media Query Cheat Sheet
-Use the CSS code below to make your website responsive in other device
+Use the media query code below inside your CSS file for responsiveness of your website in other devices
 
-## Installation
+## Download CSS file
 
 ```
 git clone https://github.com/NyomanAdiwinanda/CSS-Media-Query-Cheat-Sheet.git
 ```
 
-```
-Open the CSS file on your text-editor / code-editor
-(VScode, Atom, Sublime, other)
-```
 ## Or just copy paste the code below to your own project file
 
 ``` css
